@@ -6,3 +6,7 @@
 
 后台数据来源于[网易云音乐 NodeJS 版 API](https://neteasecloudmusicapi.vercel.app/#/)
 
+[在线地址](http://118.193.37.162/vue-cms/index.html)
+
+打开稍微有点慢，请耐心等待
+
